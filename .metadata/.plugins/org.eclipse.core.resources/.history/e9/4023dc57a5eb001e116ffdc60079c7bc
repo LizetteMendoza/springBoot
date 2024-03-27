@@ -1,0 +1,5 @@
+package com.lizette.spring.data.models;
+
+public class Product {
+
+}

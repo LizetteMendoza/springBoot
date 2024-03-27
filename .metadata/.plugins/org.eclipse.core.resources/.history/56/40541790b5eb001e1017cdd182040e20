@@ -1,0 +1,6 @@
+spring.application.name=springdatajpa
+
+spring.datasource.name=mydatabase
+spring.datasource.url=jdbc://localhost:3306/mydb
+spring.datasource.username=root
+spring.datasource.password=123456

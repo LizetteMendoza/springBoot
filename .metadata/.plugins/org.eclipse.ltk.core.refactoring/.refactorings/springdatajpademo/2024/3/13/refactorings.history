@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;entity&apos; from expression &apos;new Product()&apos;&#x0D;&#x0A;- Original project: &apos;springdatajpademo&apos;&#x0D;&#x0A;- Variable name: &apos;entity&apos;&#x0D;&#x0A;- Destination method: &apos;com.lizette.spring.data.SpringdatajpademoApplicationTests.saveProduct()&apos;&#x0D;&#x0A;- Variable expression: &apos;new Product()&apos;" description="Extract local variable &apos;entity&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;com.lizette.spring.data{SpringdatajpademoApplicationTests.java" name="entity" replace="false" replaceAllInThisFile="false" selection="523 13" stamp="1711481526389" varType="false" version="1.0"/>
+</session>
